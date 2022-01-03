@@ -19,7 +19,7 @@ int main()
 	}
 	if (pid == 0) {
 		// 关闭读端
-		close(fds[0]);
+		// close(fds[0]);
 		write(fds[1], MESSAGE, sizeof(MESSAGE));
 		if (res == -1) {
 			perror("wirte error");
@@ -28,7 +28,7 @@ int main()
 	if (pid > 0) {
 		// 关闭写端
 		char buf[128];
-		close(fds[1]);
+		// close(fds[1]);
 		res = read(fds[0], buf, sizeof(buf));
 		if (res == -1) {
 			perror("read error");
