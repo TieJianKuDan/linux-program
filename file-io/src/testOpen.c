@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试打开文件
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>

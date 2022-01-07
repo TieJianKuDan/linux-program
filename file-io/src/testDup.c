@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试 dup、dup2 和 fcntl实现dup
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <fcntl.h>

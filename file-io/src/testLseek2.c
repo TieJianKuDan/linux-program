@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试文件读写指针是否为同一个
+ * 运行结果: 是，读会影响写
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>

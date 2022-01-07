@@ -1,5 +1,6 @@
-/******
- * 递归遍历目录
+/**
+ * 程序功能: 递归遍历目录
+ * 运行结果:
  */
 #include <stdio.h>
 #include <sys/types.h>

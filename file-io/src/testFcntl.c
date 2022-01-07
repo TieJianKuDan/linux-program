@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 使用 fcntl 将终端输入变成非阻塞
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>

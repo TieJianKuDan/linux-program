@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试关于目录的一些操作
+ * 运行结果:
+ */
+
 #include <sys/types.h>
 #include <stdio.h>
 #include <unistd.h>

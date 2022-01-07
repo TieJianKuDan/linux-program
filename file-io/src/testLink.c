@@ -1,3 +1,8 @@
+/**
+ * 程序功能: unlink 实现 mv
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 

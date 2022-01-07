@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试通过 stat 获得文件的详细信息
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>

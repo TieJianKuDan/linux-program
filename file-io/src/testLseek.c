@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 使用 lseek 测试 SEEK_END 位于文件的哪里
+ * 运行结果: SEEK_END -> 文件最后一个byte的后面一个byte
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
