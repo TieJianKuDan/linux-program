@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试子进程使用execl执行c程序
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 

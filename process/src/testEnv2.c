@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试添加自定义环境变量和删除环境变量
+ * 运行结果:
+ */
+ 
 #include <stdio.h>
 #include <stdlib.h>
 

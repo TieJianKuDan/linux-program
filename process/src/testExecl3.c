@@ -1,7 +1,7 @@
 /**
- * 测试执行 java class 文件
+ * 程序功能: 测试子进程执行 java class
+ * 运行结果:
  */
-
 #include <stdio.h>
 #include <unistd.h>
 

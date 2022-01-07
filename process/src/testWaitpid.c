@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试waitpid回收指定子进程
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/wait.h>

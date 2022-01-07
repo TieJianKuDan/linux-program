@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试 wait 回收子进程
+ * 运行结果: 先来先回收
+ */
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/wait.h>

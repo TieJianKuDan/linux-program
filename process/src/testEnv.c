@@ -1,6 +1,8 @@
 /**
- * 打印所有环境变
+ * 程序功能: 打印所有环境变
+ * 运行结果:
  */
+
 #include <stdio.h>
 
 extern char ** environ;

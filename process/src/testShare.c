@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试进程之间读时共享，写时复制
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 

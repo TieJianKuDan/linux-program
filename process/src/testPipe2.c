@@ -1,7 +1,7 @@
 /**
- * 实现 ls | wc -l 父进程 ls 子进程 wc -l
+ * 程序功能: 实现 ls | wc -l 父进程 ls 子进程 wc -l
+ * 运行结果:
  */
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

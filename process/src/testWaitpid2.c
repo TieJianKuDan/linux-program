@@ -1,8 +1,8 @@
-/*
- * 回收所有子进程
- *
+/**
+ * 程序功能: 回收所有子进程
+ * 运行结果:
  */
-
+ 
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/wait.h>

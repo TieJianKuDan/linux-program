@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试孤儿进程
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <fcntl.h>

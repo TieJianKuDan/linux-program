@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 实现 ls | wc -l 子进程1->ls 子进程2->wc -l 父进程负责回收子进程
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

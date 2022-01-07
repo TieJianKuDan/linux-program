@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试子进程使用execvp执行其他程序
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>

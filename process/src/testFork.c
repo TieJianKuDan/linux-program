@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试使用fork新建子进程
+ * 运行结果:
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 

@@ -1,3 +1,8 @@
+/**
+ * 程序功能: 测试使用匿名管道在亲缘进程间通信
+ * 运行结果: 
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

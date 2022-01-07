@@ -1,7 +1,7 @@
 /**
- * 测试管道有多个进程在读，一个进程写
+ * 程序功能: 测试管道有多个进程在读，一个进程写
+ * 运行结果: 可以
  */
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
