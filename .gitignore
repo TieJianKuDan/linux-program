@@ -4,3 +4,5 @@
 *.i
 *.txt
 */out/*
+!*/out/*.py
+!*/out/.gitkeep

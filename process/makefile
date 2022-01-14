@@ -9,7 +9,7 @@ $(out):./out/%:./obj/%.o
 	gcc $< -o $@
 	
 ./obj/%.o:./src/%.c
-	gcc -c $< -o $@ -I $(inc_path) -Wall -g -std=c99
+	gcc -c $< -o $@ -I $(inc_path) -Wall -g -std=gnu99
 
 clean:
 	-rm -rf $(obj) $(out)
